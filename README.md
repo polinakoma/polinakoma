@@ -1,11 +1,13 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Polina</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a href="#">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=%23ffff">
-</a>
-<a href="#">
-  <img alt="Static Badge" src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=%23ffff">
-</a>
+<div id="badges">
+  <a href="#">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=%23ffff">
+  </a>
+  <a href="#">
+    <img alt="Static Badge" src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=%23ffff">
+  </a>
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" height="200">
 </div>
