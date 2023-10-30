@@ -20,7 +20,6 @@
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m learning JavaScript and contributing to frontend for building web applications.
 - :zap: In my free time, I like reading and travelling
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -43,7 +42,6 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" width="40" height="40">&nbsp;
 </div>
----
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=polinakoma&theme=dark&background=000000)](https://git.io/streak-stats)
