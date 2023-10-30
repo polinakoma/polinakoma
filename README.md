@@ -15,6 +15,18 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=polinakoma&style=flat-square&color=blue" alt="Количество просмотров">
 </div>
-<h4>My stack:</h4>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### :tipping_hand_woman: About Me :
+I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I’m learning JavaScript and contributing to frontend for building web applications.
+- :zap: In my free time, I like reading and travelling
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img src="">
+  <img src="">
+  <img src="">
+</div>
 
