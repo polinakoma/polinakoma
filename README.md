@@ -3,5 +3,6 @@
 <h3 align="center">Junior Front-end Developer</h3>
 <h4>My stack:</h4>
 <ul>
-  <li>https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white</li>
+  <li></li>
 </ul>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
