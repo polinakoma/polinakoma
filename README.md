@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Polina</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<div id="badges">
+<div id="badges" align="center">
   <a href="#">
     <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=%23ffff">
   </a>
