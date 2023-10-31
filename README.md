@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" height="200">
 </div>
-<h3 align="center">Junior Front-end Developer</h3>
+<h3 align="center">Junior Frontend Developer</h3>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=polinakoma&style=flat-square&color=blue" alt="Количество просмотров">
 </div>
