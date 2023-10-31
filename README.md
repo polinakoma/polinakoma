@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Polina</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center">
-  <a href="#">
+  <a href="https://t.me/polinaiko">
     <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=%23ffff">
   </a>
-  <a href="#">
+  <a href="https://vk.com/whitedressed">
     <img alt="Static Badge" src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=%23ffff">
   </a>
 </div>
