@@ -7,6 +7,9 @@
   <a href="https://vk.com/whitedressed">
     <img alt="Static Badge" src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=%23ffff">
   </a>
+  <a href="mailto:polina-komarova-95@mail.ru">
+    Почта
+  </a>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" height="200">
