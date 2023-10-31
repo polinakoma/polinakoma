@@ -17,9 +17,13 @@
 </div>
 
 ### :tipping_hand_woman: About Me :
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m learning JavaScript and contributing to frontend for building web applications.
-- :zap: In my free time, I like reading and travelling
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :computer: I’m learning JavaScript and contributing to frontend for building web applications.
+- :telescope: My future plans are to become a FullStack developer. Now I am diving in the Backend development.
+- :handshake: I'm looking for a good team to join.
+- :superhero_woman: I am s student in YandexPraktukum team.
+- :world_map: In my free time, I like reading and travelling.
+- :flight_departure: I have a huge background in aviation.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
