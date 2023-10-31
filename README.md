@@ -8,7 +8,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=%23ffff">
   </a>
   <a href="mailto:polina-komarova-95@mail.ru">
-    Почта
+    <img alt="Static Badge" src="https://img.shields.io/badge/Mail.ru-blue?logo=mail.ru">
   </a>
 </div>
 <div align="center">
