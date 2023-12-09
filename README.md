@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=polinakoma&style=flat-square&color=blue" alt="Количество просмотров">
 </div>
 
-### :tipping_hand_woman: About Me :
+### About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :computer: I’m learning JavaScript and contributing to frontend for building web applications.
 - :telescope: My future plans are to become a FullStack developer. Now I am diving in the Backend development.
